@@ -1,0 +1,41 @@
+body {
+    background-color: red;
+}
+
+.painel {
+    margin: auto;
+    background-color: #fff;
+    width: 600px;
+    height: 550px;
+    border-radius: 18px;
+    text-align: center;
+    padding-top: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+#sim {
+    height: 50px;
+    width: 70px;
+    background-color: red;
+    margin-left: -100px;
+    border: 2px solid #fff;
+    border-radius: 12px;
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    cursor: pointer;
+}
+
+#nao {
+    position: absolute;
+    height: 50px;
+    width: 70px;
+    background-color: red;
+    border: 2px solid #fff;
+    border-radius: 12px;
+    color: #fff;
+    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
